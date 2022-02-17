@@ -1,2 +1,8 @@
 # Linupdater
-A simple bash script to update your Linux OS
+A Simple bash script to update the Linux OS.
+
+# Usage
+    git clone https://github.com/haaris272k/Linupdater.git
+    cd Linupdater
+    chmod +x Linupdater.sh
+    ./Linupdater.sh
